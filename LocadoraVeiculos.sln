@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocadoraVeiculos.Domain", "LocadoraVeiculos.Domain\LocadoraVeiculos.Domain.csproj", "{4FE50EB5-E709-4A2C-B193-96474D8BF93B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocadoraVeiculos.Domain.Tests", "LocadoraVeiculos.Domain.Tests\LocadoraVeiculos.Domain.Tests.csproj", "{6D585558-EB0E-4963-AC56-E9A6718E27EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FE50EB5-E709-4A2C-B193-96474D8BF93B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE50EB5-E709-4A2C-B193-96474D8BF93B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE50EB5-E709-4A2C-B193-96474D8BF93B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE50EB5-E709-4A2C-B193-96474D8BF93B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D585558-EB0E-4963-AC56-E9A6718E27EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D585558-EB0E-4963-AC56-E9A6718E27EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D585558-EB0E-4963-AC56-E9A6718E27EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D585558-EB0E-4963-AC56-E9A6718E27EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57A0D186-F04D-4F53-BD81-06B3C4F3E4EB}
+	EndGlobalSection
+EndGlobal
